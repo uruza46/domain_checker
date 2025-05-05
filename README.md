@@ -1,4 +1,3 @@
-```markdown
 # domain_checker
 
 ドメインリストからWHOIS情報と主要DNSレコードを自動収集し、CSV形式で出力するPythonスクリプトです。  
